@@ -1,5 +1,5 @@
 {
-  "name": "queue-processor",
+  "name": "@jasonbelmonti/queue-processor",
   "version": "0.0.1",
   "description": "for processing runtime queues",
   "main": "index.js",
